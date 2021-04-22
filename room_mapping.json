@@ -133,7 +133,7 @@
     "Connection3": 6,
     "Story": "You are in the Basketball Court",
     "Navigation": "Press 1 to go to the Ping Pong Table Room , press 2 to go to the New Sudbury Center, press 3 to go Cambrian College",
-    "Win": 1,
+    "Win": 0,
     "Lose": 0,
     "Stranger": 0,
     "API": 1,
