@@ -8,7 +8,7 @@
     "Story": "You are the prince of Persia .Once day you wake up and get a call from a stranger .The princess has been missing , the is no clue and where the princess can be .You are the hero of this story .You need to find and rescue the princess.There is number of selection that need to be made .",
     "Navigation": "\nPress 1 to go to the Basketball Court , press 2 to go to the Dentist, press 3 to go Flower Shop",
     "Win": 0,
-    "Lose": 1,
+    "Lose": 0,
     "Stranger": 0,
     "API": 0,
     "Picture": ""
