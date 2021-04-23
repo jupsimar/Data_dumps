@@ -9,8 +9,8 @@
     "Navigation": "\nPress 1 to go to the Basketball Court , press 2 to go to the Dentist, press 3 to go Flower Shop",
     "Win": 0,
     "Lose": 0,
-    "Stranger": 0,
-    "API": 0,
+    "Stranger": 1,
+    "API": 1,
     "Picture": ""
   },
   {
