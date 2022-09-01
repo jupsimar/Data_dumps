@@ -1,2 +1,1 @@
-# Final-Game
-Programming for Analytics - Final Game
+# JSON dump
